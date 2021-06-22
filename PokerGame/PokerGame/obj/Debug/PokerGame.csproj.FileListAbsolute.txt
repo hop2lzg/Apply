@@ -1,0 +1,6 @@
+E:\work\temporary\PokerGame\PokerGame\bin\Debug\PokerGame.exe
+E:\work\temporary\PokerGame\PokerGame\bin\Debug\PokerGame.pdb
+E:\work\temporary\PokerGame\PokerGame\obj\Debug\PokerGame.csprojAssemblyReference.cache
+E:\work\temporary\PokerGame\PokerGame\obj\Debug\PokerGame.csproj.CoreCompileInputs.cache
+E:\work\temporary\PokerGame\PokerGame\obj\Debug\PokerGame.exe
+E:\work\temporary\PokerGame\PokerGame\obj\Debug\PokerGame.pdb
